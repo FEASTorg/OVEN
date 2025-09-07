@@ -1,3 +1,3 @@
-# OVEN
+# Docs
 
-Organized Versatile Embedded Network
+This is where the docs are kept!
