@@ -1,3 +1,3 @@
-# [OVEN](https://feastorg.github.io/OVEN/)
+# OVEN
 
 Organized Versatile Embedded Network
